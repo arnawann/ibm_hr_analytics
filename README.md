@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes employee attrition using the IBM HR Analytics dataset.
+This project analyzes employee attrition using the IBM HR Analytics dataset. The dataset contains 1,470 employee recoords and 35 variables. Initial data quality assessment shows no missing values and no duplicate records, indicating that dataset is ready for analysis.
 
 ## Tech Stack
 
