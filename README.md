@@ -46,13 +46,13 @@ Employee attrition is one of the most important HR metrics because replacing an 
 The objective of this project is to identify factors associated with employee attrition and provide insights that may support HR decision-making.
 
 ### Business Questions
-1. Does overtime increase employee attrition?
-2. Does monthly income affect attrition?
+1. Does overtime increase the likelihood of employee attrition?
+2. Is employee attrition associated with monthly income?
 3. Which department has the highest attrition rate?
 4. Does work-life balance influence attrition?
-5. Does distance from home influence attrition?
-6. Are employees with delayed promotions more like to resign?
-7. Which employee characteristics are associated with higher attrition?
+5. Does distance from home affect employee attrition?
+6. Are employees who experience longer promotion delays more likely to leave the company?
+7. Which employee characteristics are associated with employee attrition?
 
 ### EDA 1 - Attrition Distribution
 Most employees remain with the company, while only a smaller proportion leave. This indicates that the dataset is imbalanced, with significantly more employees staying than leaving. This imbalance should be considered in further analysis.
