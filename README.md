@@ -53,3 +53,18 @@ The objective of this project is to identify factors associated with employee at
 5. Does distance from home influence attrition?
 6. Are employees with delayed promotions more like to resign?
 7. Which employee characteristics are associated with higher attrition?
+
+### EDA 1 - Attrition Distribution
+Most employees remain with the company, while only a smaller proportion leave. This indicates that the dataset is imbalanced, with significantly more employees staying than leaving. This imbalance should be considered in further analysis.
+
+### EDA 2 - Department vs Attrition
+The Research & Development (R&D) department has the largest number of employees who stay with the company. It also records the highest number of employees who leave. Sales ranks second, while Human Resources has the smallest number of employees.
+
+### EDA 3 - Overtime vs Attrition
+Employees who work overtime appear to have a higher likelihood of leaving the company compared to employees who do not work overtime. This suggests that overtime may be associated with employee attrition.
+
+### EDA 4 - Monthly Income
+Employees who left the company tend to have lower monthly incomes than employees who stayed. However, additional statistical analysis would be required to determine whether income is a significant factor influencing attrition.
+
+### EDA 5 - Work Life Balance
+Employees with lower work-life balance scores appear slightly more likely to leave the company. However, the relationship is not sufficiently clear from this visualization alone and requires further analysis.
