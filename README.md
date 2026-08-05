@@ -91,18 +91,29 @@ The Sales department should become a priority for HR intervention because it exp
 ### 4. Does work-life balance influence employee attrition?
 
 -Finding
-from scale 1-4 (bad-best) all of them shows that nay sayers more than yes sayers in terms of effect of WorkLifeBalance to attrition
-
 Employees with the lowest work-life balance score (Level 1) experience the highest attrition rate. Attrition decreases considerably among employees with better work-life balance (Levels 2-4).
 
 -Evidence
-Attention Rate of Work Life Balance Level 1 : **31.25%**
-Attention Rate of Work Life Balance Level 2 : **16.86**
-Attention Rate of Work Life Balance Level 3 : **14.22**
-Attention Rate of Work Life Balance Level 4 : **17.65**
+Work Life Balance Level 1 : **31.25%**
+Work Life Balance Level 2 : **16.86%**
+Work Life Balance Level 3 : **14.22%**
+Work Life Balance Level 4 : **17.65%**
 
 -Business Insight
 Poor work-life balance appears to be associated with higher employee attrition. HR should prioritize initiatives that improve work-life balance, such as workload management, flexible working arrangements, and employee wellness programs.
+
+### 5. Does distance from home affect employee attrition?
+
+-Finding
+Employees who leave the company generally live farther from workplace than employees who stay. The average distance from home for employees who resigned is **10.63**, compared with **8.92** for employees who remained with company.
+
+-Evidence
+Average Distance from Home
+--Employees who stayed: **8.92km**
+--Employees who resigned: **10.63 km**
+
+-Business Insight
+Distance from home appears to be associated with employee attrition. Employees who live farther from workplace tend to leave the company more frequently. HR may consider flexible work arrangements, transportation support, or location-based hiring strategies to improve employee retention.
 
 ### EDA 1 - Attrition Distribution
 Most employees remain with the company, while only a smaller proportion leave. This indicates that the dataset is imbalanced, with significantly more employees staying than leaving. This imbalance should be considered in further analysis.
