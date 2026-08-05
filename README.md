@@ -74,7 +74,19 @@ Employees who leave the company generally have lower monthly incomes than employ
 --The histogram also shows that employees with lower salaries are more frequently found in the attrition group.
 
 -Business Insight
-Monthly income appears to be associated with employee attrition. Employees receiving lower salaries may be more likely to seek better opportunities elsewhere. HR should regulary evaluate compensation policies, especially for employees in lower salary ranges.
+Monthly income appears to be associated with employee attrition. Employees with lower salaries tend to leave the company more frequently than employees with higher salaries. HR should regulary review compensation policies, particularly for employees in lower salary ranges.
+
+### 3. Which department has the highest attrition rate?
+-Finding
+The Sales department has the highest employee attrition rate(20.6%), followed by Human Resources (19.0%). Although the Research & Development (R&D) department has the largest workforce, it records the lowest attrition rate among three departments (13.8%).
+
+-Evidence
+-- Sales: **20.6**
+-- Human Resources: **19.0%**
+-- Research & Development: **13.8%**
+
+-Business Insight
+The Sales department should become a priority for HR intervention because it experiences the highest employee attrition rate. HR should evaluate workload distribution, compensation, career development opportunities, and managerial support within the Sales department to reduce voluntary turnover.
 
 ### EDA 1 - Attrition Distribution
 Most employees remain with the company, while only a smaller proportion leave. This indicates that the dataset is imbalanced, with significantly more employees staying than leaving. This imbalance should be considered in further analysis.
