@@ -30,3 +30,19 @@ overtime_attrition = pd.crosstab(
 ) * 100
 
 print(overtime_attrition)
+
+#Stacked Bar Chart for percentage of Attrition by OverTime
+
+overtime_attrition.plot(
+    kind='bar',
+    stacked=True,
+    figsize=(6,5)
+)
+
+plt.title('Attrition Percentage by Overtime')
+
+plt.ylabel('Percentage')
+
+plt.xticks(rotation=0)
+
+plt.show()

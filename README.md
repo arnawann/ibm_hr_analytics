@@ -54,6 +54,28 @@ The objective of this project is to identify factors associated with employee at
 6. Are employees who experience longer promotion delays more likely to leave the company?
 7. Which employee characteristics are associated with employee attrition?
 
+#### 1. Does overtime increase employee attrition?
+-Finding
+Employees who work overtime are substantially more likely to leave the company than employees who do not work overtime.
+
+-Evidence
+--Employees working overtime: 30.5% resigned, 69.5% remained with the company
+--Employees without overtime: 10.4% resigned, 89.6% remained with the company
+
+-Business Insight
+Employees working overtime are nearly three times more likely to leave company than those who do not work overtime. HR should evaluate workload allocation, overtime policies, and employee well-being initiatives to reduce voluntary turnover.
+
+#### 2. Does monthly income affect employee attrition?
+-Finding
+Employees who leave the company generally have lower monthly incomes than employees who stay.
+
+-Evidence
+--The median monthly income of employees who resigned is lower than that of employees who stayed.
+--The histogram also shows that employees with lower salaries are more frequently found in the attrition group.
+
+-Business Insight
+Monthly income appears to be associated with employee attrition. Employees receiving lower salaries may be more likely to seek better opportunities elsewhere. HR should regulary evaluate compensation policies, especially for employees in lower salary ranges.
+
 ### EDA 1 - Attrition Distribution
 Most employees remain with the company, while only a smaller proportion leave. This indicates that the dataset is imbalanced, with significantly more employees staying than leaving. This imbalance should be considered in further analysis.
 
